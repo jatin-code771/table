@@ -69,6 +69,7 @@ background-color: #1c1c1c;
 .pricing-card:hover {
 cursor: pointer;
 box-shadow: 0 0 10px #616161 ;
+transform: translateY(-10px);
 }
 
 
@@ -183,6 +184,7 @@ box-shadow: 0 0 10px #616161 ;
 .join-btn:hover {
   box-shadow: 0 0 10px rgb(220, 69, 69);
   background-color: #312d2d;
+  transform: translateX(2px);
 }
 
 .warrior .join-btn{
